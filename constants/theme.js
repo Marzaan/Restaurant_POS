@@ -11,6 +11,10 @@ export const COLORS = {
   black: "#1E1F20",
   white: "#FFFFFF",
 
+  // linear-gradient colors
+  gradient1: "#F98244",
+  gradient2: "#F74873",
+
   lightGray: "#F5F5F6",
   lightGray2: "#F6F6F7",
   lightGray3: "#EFEFF1",
