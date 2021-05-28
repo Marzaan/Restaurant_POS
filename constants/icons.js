@@ -6,6 +6,8 @@ export const pasta = require('../assets/icons/pasta.png');
 export const spoon = require('../assets/icons/spon_frok.png');
 export const pizza = require('../assets/icons/pizza_slice.png');
 export const ice = require('../assets/icons/ice_cream.png');
+export const user = require('../android/app/src/main/res/drawable/user.png');
+export const username = require('../assets/icons/user_1.png');
 
 export default {
   food,
@@ -15,5 +17,7 @@ export default {
   pasta,
   spoon,
   pizza,
-  ice
+  ice,
+  user,
+  username
 }

@@ -12,6 +12,7 @@ export const pizza = require('../assets/images/pizza.png');
 export const pastaSalad = require('../assets/images/pastaSalad.png');
 export const chess_pizza = require('../assets/images/chess pizza.png');
 export const duck = require('../assets/images/duck.png');
+export const user = require('../assets/images/username.png');
 
 export default {
   apple,
@@ -27,5 +28,6 @@ export default {
   pizza,
   pastaSalad,
   chess_pizza,
-  duck
+  duck,
+  user
 }
